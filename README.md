@@ -104,6 +104,11 @@ El backend público queda en `https://<tu-backend>.onrender.com` y la tienda en 
 ```
 
 ---
+Nota sobre el requisito de "App Móvil":
+
+Nuestro sistema de ecommerce está desarrollado como una Aplicación Web Responsiva (Responsive Web App) y está desplegado en Render.
+
+El diseño se adapta completamente a dispositivos móviles, permitiendo el acceso, login y la gestión (sincronización) de usuarios y/O pedidos directamente desde el navegador del celular, consumiendo la misma API que la versión de escritorio.
 
 ## Notas rápidas
 
